@@ -1,0 +1,41 @@
+[options]
+#font = xos4 Terminus 16px
+#font = Hack 14px
+font = Inconsolata 16px
+
+# Colors - copied from another file with *.scheme extension
+[colors]
+# Base16 Oliveira
+# Scheme: Protesilaos Stavrou (http://www.protesilaos.com)
+
+foreground      = #374934
+foreground_bold = #374934
+cursor          = #374934
+background      = #F7F9F4
+
+# 16 color space
+color0  = #1A2217
+color1  = #A64E3C
+color2  = #477E44
+color3  = #A59520
+color4  = #107595
+color5  = #6C85b7
+color6  = #5CA090
+color7  = #6A7167
+color8  = #778974
+color9  = #A64E3C
+color10 = #477E44
+color11 = #A59520
+color12 = #107595
+color13 = #6C85b7
+color14 = #5CA090
+color15 = #F7F9F4
+
+# 256 color space
+color16 = #A35C35
+color17 = #A95F85
+color18 = #2A3227
+color19 = #374934
+color20 = #8A9187
+color21 = #E7E9E4
+

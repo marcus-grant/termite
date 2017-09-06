@@ -1,0 +1,41 @@
+[options]
+#font = xos4 Terminus 16px
+#font = Hack 14px
+font = Inconsolata 16px
+
+# Colors - copied from another file with *.scheme extension
+[colors]
+# Base16 One Light
+# Scheme: Daniel Pfeifer 
+
+foreground      = #090A0B
+foreground_bold = #090A0B
+cursor          = #090A0B
+background      = #FAFAFA
+
+# 16 color space
+color0  = #FAFAFA
+color1  = #F0F0F0
+color2  = #E5E5E6
+color3  = #A0A1A7
+color4  = #696C77
+color5  = #383A42
+color6  = #202227
+color7  = #090A0B
+color8  = #CA1243
+color9  = #D75F00
+color10 = #C18401
+color11 = #50A14F
+color12 = #0184BC
+color13 = #4078F2
+color14 = #A626A4
+color15 = #986801
+
+# 256 color space
+#color16 = #A35C35
+#color17 = #A95F85
+#color18 = #2A3227
+#color19 = #374934
+#color20 = #8A9187
+#color21 = #E7E9E4
+
